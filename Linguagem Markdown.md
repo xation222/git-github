@@ -30,3 +30,20 @@ _*Negrito e Itálico*_
 ![aqui você vê um exemplo de imagem, para adicioná-la eu apenas arrastei para a área attach files, e não se preocupe, isto é um comentário](https://user-images.githubusercontent.com/126095360/226902537-63c1c147-9240-4b89-900e-dad6291cdb69.jpg)
 
 [para links é igual, mas sem o !](https://www.youtube.com/)
+
+Número | Nome | Nota
+---|---|---
+1 | gustavo | 8,5
+2 | Exemplo | 2,1
+3 | de | 4
+4 | tabela | 6
+
+diferenciar comandos, ex: `document.getElementById()`, use crase.
+também pode ser feito assim:
+```
+   if (you == corno) {
+      console.log('sinto muito')
+   }
+```
+
+emotes 🖖, para usar escreva :nomedoemote
